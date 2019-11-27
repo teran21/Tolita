@@ -43,7 +43,15 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 7,
-    "versionPublish": "4.11.6"
+    "versionPublish": "4.11.6",
+    "favicon": false,
+    "noImageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
